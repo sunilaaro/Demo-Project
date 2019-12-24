@@ -1,0 +1,9 @@
+.header{
+    margin-bottom: 10px;
+    padding:0;
+    width: 100%;
+    background-color:#e3f6f5;
+    position: fixed;
+    display: block;
+    box-shadow: rgb(204, 204, 204) 0px 2px 5px;
+}

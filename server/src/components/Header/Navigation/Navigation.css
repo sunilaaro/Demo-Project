@@ -1,0 +1,27 @@
+nav{
+    float: right;
+    position: static;
+    margin-top: -52px;
+}
+ul{
+    list-style:none;
+
+}
+li {
+    display: inline;
+    position: relative;
+    margin: 13px;
+    padding: 2px;
+    
+}
+li a{
+    text-decoration: none;
+    font-size: 18px;
+    font-stretch: initial;
+    color:chocolate;
+    font-family: sans-serif;
+}
+li a:hover{
+    color:#c2c2c2;
+    transition: 0.5 ease-out;
+}
