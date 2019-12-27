@@ -1,0 +1,10 @@
+.categoryCard:hover {
+     background-color: rgb(226, 213, 176) !important;
+     transition:ease-in-out 0.5s !important;
+     box-shadow:2px 2px 2px 0px rgba(0,0,0,0.2) !important;
+}
+@media (max-width:600px){
+      .categoryCard{
+        margin-left: 50px !important;
+      }
+}

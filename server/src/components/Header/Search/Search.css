@@ -6,7 +6,7 @@
    
 }
 input{
-    width: 525px;
+    width: 475px;
     height: 30px;
     position: fixed;
     padding: 5px;
@@ -25,7 +25,7 @@ input:hover{
 }
 .searchBtn{
     position: fixed;
-    left: 789px;
+    left: 700px;
     top: 21px;
     width: 82px;
     height: 36px;
